@@ -9,7 +9,8 @@
 
   - The basics of blockchain technology.
   - The basics of cryptography.
-  - Cryptographic algorithms</p>
+  - Cryptographic algorithms
+</p>
 
 <p>So I hope you enjoy as much as I do creating a prototype of your own blockchain.</p>
 
